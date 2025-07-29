@@ -1,16 +1,31 @@
-## Hi there 👋
+# avaqen
 
-<!--
-**Avaqen/Avaqen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> building systems that don’t ask for attention.  
+> architecting reliability, not just writing code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ▚ Core Work  
+- ☁️ Cloud architecture (AWS · GCP · hybrid)  
+- 🛠️ System reliability & fault tolerance  
+- 📈 Observability, clean alerting, incident clarity  
+- 🔐 Linux-native environments, CLI-first tooling
+
+---
+
+### ▚ Tools in Rotation  
+`terraform` · `kubernetes` · `docker` · `ansible`  
+`linux` · `python` · `bash` · `systemd` · `grafana`
+
+---
+
+### ▚ Philosophy  
+> Quiet systems are strong.  
+> Logs tell stories.  
+> Architecture is craft — not noise.
+
+---
+
+### ▚ Work in Progress  
+This space is being written over time.  
+No rush. No chaos.
